@@ -69,7 +69,7 @@ buscarAluno
 ________________________________________________________________________________________________________________________________________
 estrutura: connections > postgres > databases > aluno_online > schemas > public > tables > aluno 
 <img width="406" height="621" alt="image" src="https://github.com/user-attachments/assets/d13964ea-184f-451a-9075-97e17dd5cda3" />
-data:
+
 <img width="582" height="533" alt="image" src="https://github.com/user-attachments/assets/a02a5189-ac63-4317-802b-57934ceecb53" />
 
 ##  Arquitetura
