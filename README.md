@@ -52,7 +52,6 @@ Endpoints de criação de Alunos/Professores:
 ## Teste da API de Cadastro de Aluno/Professor no Insomnia
 ________________________________________________________________________________________________________________________________________
 endpoint: `http://localhost:8080`  
-Exemplo de dados no corpo da requisição, informe os dados de um novo paciente em formato JSON.
 <img width="1260" height="710" alt="image" src="https://github.com/user-attachments/assets/7d102ffc-afda-4b65-b7b1-b0c00e148743" />
 <img width="1262" height="717" alt="image" src="https://github.com/user-attachments/assets/36ff712d-7c98-4334-ab0d-27374243e095" />
 <img width="1261" height="708" alt="image" src="https://github.com/user-attachments/assets/0608b8ac-033c-4723-98d4-50b057634a04" />
