@@ -8,7 +8,7 @@ inserção do aluno e Professor com informações detalhadas:
 O **Aluno Online** é uma API RESTful desenvolvida como projeto acadêmico, com foco na construção de um back-end bem estruturado para o gerenciamento de alunos. O projeto aplica boas práticas de arquitetura em camadas com Spring Boot, separando as responsabilidades entre Controller, Service e Repository.
 Projeto desenvolvido durante o 3º semestre do curso de Ciência da Computação.
 
-##Implementações
+## Implementações
 _________________________________________________________________________________________________________________________________________________________________________________________
 ### Aluno
 
