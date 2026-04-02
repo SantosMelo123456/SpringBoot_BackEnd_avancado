@@ -35,7 +35,7 @@ ________________________________________________________________________________
 
 ## Endpoints da API
 _________________________________________________________________________________________________________________________________________________________________________________________
-###Endpoints de criação de Alunos/Professores:
+Endpoints de criação de Alunos/Professores:
 - URL: /alunos
 - Content-Type: application/json
 - Corpo da Requisição: Objeto JSON com os campos obrigatórios: name, email e cpf
@@ -64,7 +64,17 @@ Exemplo de dados no corpo da requisição, informe os dados de um novo paciente 
 ## Resposta de Sucesso - exemplo
 _________________________________________________________________________________________________________________________________________________________________________________________
 <img width="344" height="259" alt="image" src="https://github.com/user-attachments/assets/2d9bd161-8c81-4023-a1b3-e45583284407" />
-**buscarAluno**
+buscarAluno
+
+## Script Banco de Dados - Dbeaver
+_________________________________________________________________________________________________________________________________________________________________________________________
+estrutura: connections > postgres > databases > aluno_online > schemas > public > tables > aluno 
+<img width="406" height="621" alt="image" src="https://github.com/user-attachments/assets/d13964ea-184f-451a-9075-97e17dd5cda3" />
+data:
+<img width="582" height="533" alt="image" src="https://github.com/user-attachments/assets/a02a5189-ac63-4317-802b-57934ceecb53" />
+
+
+
 
 ##  Arquitetura
 _________________________________________________________________________________________________________________________________________________________________________________________
