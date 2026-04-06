@@ -49,7 +49,7 @@ Endpoints de criação de Alunos/Professores:
 | `DELETE` | `/alunos/{id}` | Remove um aluno |
 
 
-## Teste da API de Cadastro de Aluno/Professor no Insomnia
+## Teste da API de Aluno no Insomnia
 ________________________________________________________________________________________________________________________________________
 endpoint: `http://localhost:8080`  
 <img width="1260" height="710" alt="image" src="https://github.com/user-attachments/assets/7d102ffc-afda-4b65-b7b1-b0c00e148743" />
@@ -58,6 +58,18 @@ endpoint: `http://localhost:8080`
 <img width="1251" height="708" alt="image" src="https://github.com/user-attachments/assets/e9cc9449-90f3-4603-8d56-729087487e76" />
 <img width="1265" height="709" alt="image" src="https://github.com/user-attachments/assets/cab9c3cf-6092-464b-8b30-1c5d3adc7496" />
 <img width="1206" height="705" alt="image" src="https://github.com/user-attachments/assets/b069ca2e-6aff-4459-affd-71f372a8a0f3" />
+
+
+## Teste da API de Professor no Insomnia
+________________________________________________________________________________________________________________________________________
+endpoint: 'http://localhost:8080'
+<img width="1357" height="503" alt="image" src="https://github.com/user-attachments/assets/607a6cc7-4d26-4a61-99e6-dfb6c4ab8698" />
+<img width="1355" height="659" alt="image" src="https://github.com/user-attachments/assets/d22c46c0-fb07-4c78-ba4d-4d3d1d3887d1" />
+<img width="1356" height="680" alt="image" src="https://github.com/user-attachments/assets/391ec46a-05ad-4fd5-980f-ee91ea642f1d" />
+<img width="1359" height="708" alt="image" src="https://github.com/user-attachments/assets/a1e5c159-5eab-4bbf-813e-9b9e86842f83" />
+<img width="1364" height="706" alt="image" src="https://github.com/user-attachments/assets/afc91af1-0a49-49cf-8950-cf3f10c32f07" />
+
+
 
 
 ## Resposta de Sucesso - exemplo
