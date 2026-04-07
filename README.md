@@ -77,12 +77,16 @@ ________________________________________________________________________________
 <img width="344" height="259" alt="image" src="https://github.com/user-attachments/assets/2d9bd161-8c81-4023-a1b3-e45583284407" />
 buscarAluno
 
-## Script Banco de Dados - Dbeaver
+## Script Banco de Dados Aluno - Dbeaver
 ________________________________________________________________________________________________________________________________________
 estrutura: connections > postgres > databases > aluno_online > schemas > public > tables > aluno 
 <img width="406" height="621" alt="image" src="https://github.com/user-attachments/assets/d13964ea-184f-451a-9075-97e17dd5cda3" />
 
 <img width="582" height="533" alt="image" src="https://github.com/user-attachments/assets/a02a5189-ac63-4317-802b-57934ceecb53" />
+
+## Script Banco de Dados Professor - Dbeaver
+________________________________________________________________________________________________________________________________________
+<img width="1004" height="567" alt="image" src="https://github.com/user-attachments/assets/34567dd0-feaf-4612-97c1-34ccc0bea618" />
 
 ##  Arquitetura
 ________________________________________________________________________________________________________________________________________
